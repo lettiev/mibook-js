@@ -1,0 +1,125 @@
+/*header*/
+body { 
+
+	font-family: 'Comfortaa', sans-serif; 
+	background-color: #dcfbd2;
+}
+
+header {  
+
+	background-color: #7CD6BE;
+	background-image: url(fondo.png);
+	text-align: center;
+	padding: 40px;
+	color: #393C47;
+}
+
+
+header h1{ 
+
+	padding: 50px; 
+	font-family: 'Thasadith', sans-serif;
+	text-transform: uppercase;
+	font-size: 1.25em;}
+
+header h2{
+	
+	display: inline-block;
+	text-transform: uppercase;
+	padding: 50px 100px 20px;
+	font-family: 'Thasadith', sans-serif; 
+}
+
+/*main*/
+
+main {
+
+	background-color: #dcfbd2;
+	font-family: 'Thasadith', sans-serif;
+	text-align: center;
+	padding: 20px;
+}
+
+h3 {
+
+	font-family: 'Comfortaa', sans-serif;
+}
+
+main div {
+
+	display: inline-block;
+}
+
+main img{
+
+	width: 400px;
+	height: 600px;
+	
+}
+
+/*footer*/
+
+footer { 
+
+	background-color: #20AA75;
+	text-align: center;
+	padding: 30px;
+	color: #393C47;
+	font-family: 'Thasadith', sans-serif;
+
+}
+ul {
+
+	list-style: none;
+}
+
+li {
+
+	display: inline-block;
+	text-transform: uppercase;
+	padding: 30px 70px;
+	font-family: 'Comfortaa', sans-serif;
+
+
+}
+
+.bgbrand {
+
+	background-color:#20AA75; 
+}
+
+.navbar a{
+
+	color:white;
+} 
+
+.navbar a:hover{
+
+	color: #7CD6BE;
+	
+}
+
+.layout-social {
+
+	font-size: 1.25em;
+}
+
+.card {
+
+	background-color: #F3FFD1;
+}
+
+.img-small {
+
+	width: 200px; 
+}
+
+.cardimg {
+
+
+	width: 400px;
+	height: 600px;
+
+}
+
+
